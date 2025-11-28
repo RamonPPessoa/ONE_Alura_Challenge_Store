@@ -53,14 +53,15 @@ Durante a análise foram produzidos diferentes gráficos que ajudaram a visualiz
 1. Acesse o arquivo **Desafio_AluraStoreBrasil.ipynb** diretamente pelo Google Colab.  
 2. Clique em **“Executar tudo”** para rodar todas as células em sequência.  
 3. Os gráficos e insights serão gerados automaticamente durante a execução das células.
-4. ## 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 Este projeto foi desenvolvido utilizando as seguintes ferramentas:
 
 - 🐍 **Python 3** – linguagem principal para análise de dados.  
 - 📓 **Google Colab** – ambiente de execução do notebook.  
+- 📒 **Jupyter Notebook** – formato utilizado para organizar código, gráficos e explicações.  
 - 📊 **Pandas** – manipulação e análise de dados.  
 - 🔢 **NumPy** – operações matemáticas e estruturais.  
 - 📈 **Matplotlib** – geração dos gráficos (barras, empilhados e pizza).  
- 
+
 
