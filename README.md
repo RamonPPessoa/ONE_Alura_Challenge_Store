@@ -8,8 +8,8 @@ Desafio Alura Store: Analise de eficiência de uma rede de lojas
 
 ## 📌 Propósito da análise realizada
 
-O desafio tem como objetivo **identificar qual loja da Alura Store deve ser vendida**.  
-Para isso, realizamos uma **análise comparativa entre todas as lojas**, considerando indicadores essenciais como:
+O desafio tem como objetivo **identificar qual loja da Alura Store deve ser vendida** para investir em um novo negóco 
+Para isso, realizamos uma **análise comparativa entre todas as lojas**, considerando indicadores/métricas essenciais como:
 
 - 📊 **Faturamento total**
 - ⭐ **Avaliações dos clientes**
@@ -57,11 +57,11 @@ Durante a análise foram produzidos diferentes gráficos que ajudaram a visualiz
 
 Este projeto foi desenvolvido utilizando as seguintes ferramentas:
 
-- 🐍 **Python 3** – linguagem principal para análise de dados.  
-- 📓 **Google Colab** – ambiente de execução do notebook.  
-- 📒 **Jupyter Notebook** – formato utilizado para organizar código, gráficos e explicações.  
-- 📊 **Pandas** – manipulação e análise de dados.  
-- 🔢 **NumPy** – operações matemáticas e estruturais.  
-- 📈 **Matplotlib** – geração dos gráficos (barras, empilhados e pizza).  
+-  **Python 3** – linguagem principal para análise de dados.  
+-  **Google Colab** – ambiente de execução do notebook.  
+-  **Jupyter Notebook** – formato utilizado para organizar código, gráficos e explicações.  
+-  **Pandas** – manipulação e análise de dados.  
+-  **NumPy** – operações matemáticas e estruturais.  
+-  **Matplotlib** – geração dos gráficos (barras, empilhados e pizza).  
 
 
